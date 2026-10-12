@@ -1,0 +1,1 @@
+<footer class="gim-footer"><p>© <?php echo esc_html(date('Y')); ?> GOTITMATE · <a href="mailto:customercare@gotitmate.com">customercare@gotitmate.com</a></p></footer><?php wp_footer(); ?></body></html>

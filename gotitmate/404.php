@@ -1,0 +1,1 @@
+<?php if (!defined('ABSPATH')) exit; get_header(); ?><main class="gim-shell"><div class="gim-card"><h1>Page not found</h1><a class="gim-btn" href="<?php echo esc_url(home_url('/')); ?>">Go home</a></div></main><?php get_footer(); ?>
